@@ -5,7 +5,7 @@
 <ol>
 <li> ls /bin</li>
 <li>ls /tmp</li>
-<li>ls -dr /etc/t*</li>
+<li>ls /etc/t*</li>
 <li> ls /dev/tty??</li>
 <li>ls /dev/tty*[1-4]</li>
 <li>ls /dev/t*C1</li>
